@@ -1,2 +1,16 @@
 # crop-production-analysis-india
- Develop a Business-to-Business collaboration platform for the agri-food sector, leveraging Future Internet developments. The platform aims to facilitate effective collaboration among stakeholders and predict crop production based on extensive dataset insights.
+The Agriculture business domain, as a vital part of the overall supply chain, is
+expected to highly evolve in the upcoming years via the developments, which are
+taking place on the side of the Future Internet. This paper presents a novel
+Business-to-Business collaboration platform from the agri-food sector perspective,
+which aims to facilitate the collaboration of numerous stakeholders belonging to
+associated business domains, in an effective and flexible manner.
+This dataset provides a huge amount of information on crop production in India
+ranging from several years. Based on the Information the ultimate goal would be to
+predict crop production and find important insights highlighting key indicators and
+metrics that influence crop production.
+
+
+Approaches:
+Python, Tableau, Power BI or you can use any tools and techniques as per
+your convenience.
